@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&lines=I+am+Iranga+Umayantha" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&width=435&lines=I+am+Iranga+Umayantha" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irangaumayantha2001&label=Profile%20views&color=0e75b6&style=flat" alt="irangaumayantha2001" /> </p>
