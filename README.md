@@ -22,3 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irangaumayantha2001&show_icons=true&locale=en&layout=compact" alt="irangaumayantha2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irangaumayantha2001&" alt="irangaumayantha2001" /></p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
